@@ -12,6 +12,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'rspec-rails', '~> 3.4', '>= 3.4.1'
 gem 'capybara'
+gem 'database_cleaner'
+gem 'factory_girl_rails'
+gem 'ffaker'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
